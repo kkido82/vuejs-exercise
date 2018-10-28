@@ -18,7 +18,6 @@ import components from '@/components/components';
 
 export default {
   components: {
-    PageTitle,
     ...components
   },
   props: ['components', 'dragging'],
